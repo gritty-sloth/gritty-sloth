@@ -17,8 +17,7 @@ Currently in Year 1 of a BTech CSE degree, but the real curriculum is the side p
 
 - 🤖 Building **Zuri** — a WhatsApp AI assistant for my friend group, built on n8n + Gemini + Google Workspace. Zero cost. Living memory. Actually useful.
 - 🔍 Designing an **OSINT toolkit** — link analysis, chronolocation, sock puppet auditing. Long game.
-- ⚙️ Automating everything I touch with **n8n** workflows and Discord bots.
-- ☀️ Currently relocating a **7.5HP Shakti Solar** water pumping system. (Not everything is software.)
+- ⚙️ Automating everything I touch with **n8n** workflows and Discord bots. 
 
 ---
 
