@@ -1,18 +1,14 @@
 <div align="center">
 
-# Hi!!👋 I'm 
+# Hi!! 👋 I'm
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,50:1e1b4b,100:0a0a0f&height=160&section=header&text=ARIZEN&fontSize=64&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Builder.%20Tinkerer.&descSize=14&descAlignY=78&descAlign=50&stroke=6366f1&strokeWidth=2" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=6366f1&center=true&vCenter=true&width=600&lines=BTech+CSE+%E2%80%A2+Year+1;I+automate+things+I%27m+too+lazy+to+do+twice.;Currently+building+an+AI+that+knows+my+friends.;OSINT+nerd+in+the+making.;n8n+%2B+Gemini+%2B+vibes+%3D+Zuri)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=6366f1&center=true&vCenter=true&width=600&lines=First+Year+CSE+Grad;I+do+automation+workflows;I+create+bots+for+WhatsApp%2C+Discord%2C+Telegram%2C+Teams+etc.;Currently+working+on+an+OSINT+project)](https://git.io/typing-svg)
 
 </div>
 
----
-
-<br>
-
-## `> whoami`
+## `> Whoami`
 
 **Arizen.** First-year CSE student who treats side projects as the real degree.
 
@@ -27,19 +23,16 @@ I build things I actually need — AI assistants, automation pipelines, Discord 
 
 <br>
 
-## `> stats`
+## `> Stats`
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gritty-sloth&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=e2e8f0&icon_color=818cf8&ring_color=6366f1&bg_color=0d0d1a&include_all_commits=true&count_private=true"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=gritty-sloth&theme=tokyonight&hide_border=true&ring=6366f1&fire=818cf8&currStreakLabel=6366f1&background=0d0d1a"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gritty-sloth&layout=donut&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=e2e8f0&bg_color=0d0d1a"/>
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=gritty-sloth&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
 </div>
 
-#### `> deep metrics`
+#### `> Deep metrics`
 
 <div align="center">
 
@@ -51,7 +44,7 @@ I build things I actually need — AI assistants, automation pipelines, Discord 
 
 <br>
 
-## `> stack`
+## `> Stack`
 
 <div align="center">
 
@@ -122,7 +115,14 @@ I build things I actually need — AI assistants, automation pipelines, Discord 
 
 <br>
 
-## `> quote`
+## `> Projects`
+
+| Project | What it does |
+|---|---|
+| 🤖 **Zuri** | WhatsApp AI assistant with persistent memory, built for a close friend group |
+| 🔍 **OSINT Toolkit** *(WIP)* | Link analysis, chronolocation, pivot auditing & sock puppet detection |
+| 🤖 **Discord Bots** | Custom leveling, voice XP, temp-channel & moderation bots for real servers |
+| ⚡ **n8n Workflows** | Personal automation pipelines — webhooks, schedulers, AI chains |
 
 <div align="center">
 
@@ -134,20 +134,7 @@ I build things I actually need — AI assistants, automation pipelines, Discord 
 
 <br>
 
-## `> projects`
-
-| Project | What it does |
-|---|---|
-| 🤖 **Zuri** | WhatsApp AI assistant with persistent memory, built for a close friend group |
-| 🔍 **OSINT Toolkit** *(WIP)* | Link analysis, chronolocation, pivot auditing & sock puppet detection |
-| 🤖 **Discord Bots** | Custom leveling, voice XP, temp-channel & moderation bots for real servers |
-| ⚡ **n8n Workflows** | Personal automation pipelines — webhooks, schedulers, AI chains |
-
----
-
-<br>
-
-## `> socials`
+## `> Socials`
 
 <div align="center">
 
@@ -168,7 +155,7 @@ I build things I actually need — AI assistants, automation pipelines, Discord 
 
 <br>
 
-## `> support & collab`
+## `> Support & collab`
 
 <div align="center">
 
@@ -191,4 +178,3 @@ I build things I actually need — AI assistants, automation pipelines, Discord 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1e1b4b,100:0a0a0f&height=100&section=footer" width="100%"/>
 
 </div>
- 
