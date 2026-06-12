@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,50:1e1b4b,100:0a0a0f&height=160&section=header&text=ARIZEN&fontSize=64&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=builder.%20tinkerer.%20ships%20things.&descSize=14&descAlignY=78&descAlign=50&stroke=6366f1&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,50:1e1b4b,100:0a0a0f&height=160&section=header&text=ARIZEN&fontSize=64&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Builder.%20Tinkerer.%20Ships%20Stuff.&descSize=14&descAlignY=78&descAlign=50&stroke=6366f1&strokeWidth=2" width="100%"/>
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=gritty-sloth&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=e2e8f0&icon_color=818cf8&ring_color=6366f1&bg_color=0d0d1a&include_all_commits=true&count_private=true"/>
 
-### `> whoami`
+### `> ME? `
 
 **Arizen.** First-year CSE student who treats side projects as the real degree.
 
@@ -107,7 +107,7 @@ Personal and project automation pipelines — webhooks, schedulers, AI chains, A
 
 <br>
 
-## `> metrics`
+## `> STATS`
 
 <div align="center">
 
@@ -121,7 +121,7 @@ Personal and project automation pipelines — webhooks, schedulers, AI chains, A
 
 <br>
 
-## `> deep metrics`
+## `> METRICS`
 
 <div align="center">
 
@@ -154,7 +154,7 @@ Personal and project automation pipelines — webhooks, schedulers, AI chains, A
 
 ---
 
-## `> projects`
+## `> PROJECTS`
 
 <table>
 <tr>
@@ -213,7 +213,7 @@ Personal + project automation backbone. Webhooks, AI chains, API glue, Google Wo
 
 ---
 
-## `> tech stack`
+## `> Tech stack`
 
 <div align="center">
 
@@ -261,7 +261,7 @@ Personal + project automation backbone. Webhooks, AI chains, API glue, Google Wo
 
 ---
 
-## `> collaboration`
+## `> Collaboration`
 
 <div align="center">
 
