@@ -4,20 +4,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,50:1e1b4b,100:0a0a0f&height=160&section=header&text=ARIZEN&fontSize=64&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Builder.%20Tinkerer.&descSize=14&descAlignY=78&descAlign=50&stroke=6366f1&strokeWidth=2" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=6366f1&center=true&vCenter=true&width=600&lines=First+Year+CSE+Grad;I+do+automation+workflows;I+create+bots+for+WhatsApp%2C+Discord%2C+Telegram%2C+Teams+etc.;Currently+working+on+an+OSINT+project)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=6366f1&center=true&vCenter=true&width=600&lines=First+Year+CSE+Student;I+do+automation+workflows;I+create+bots+for+WhatsApp%2C+Discord%2C+Telegram%2C+Teams+etc.;Currently+working+on+an+OSINT+project)](https://git.io/typing-svg)
 
 </div>
 
 ## `> Whoami`
 
-**Arizen.** First-year CSE student who treats side projects as the real degree.
+**Arizen** ***(aka Gritty Sloth)***. First-year CSE student who treats side projects as the real degree.
 
-I build things I actually need — AI assistants, automation pipelines, Discord bots. If I'm doing something manually more than twice, I'm already writing the workflow.
-
-- 🤖 **Zuri** — WhatsApp AI w/ living memory for my friend group
-- 🔍 **OSINT Toolkit** — long-game project. link analysis, chronolocation, sock puppet auditing
-- ⚙️ **n8n automations** — if it has an API, I've probably hooked it up to something
-- 🤫 A few more things cooking quietly
+I am currently exploring new stuffs and doing side projects 
 
 ---
 
