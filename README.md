@@ -1,24 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,50:1e1b4b,100:0a0a0f&height=160&section=header&text=ARIZEN&fontSize=64&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=builder.%20tinkerer.%20ships%20things.&descSize=14&descAlignY=78&descAlign=50&stroke=6366f1&strokeWidth=2" width="100%"/>
+# Hi!!👋 I'm 
 
-</div>
-
-<br>
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,50:1e1b4b,100:0a0a0f&height=160&section=header&text=ARIZEN&fontSize=64&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Builder.%20Tinkerer.&descSize=14&descAlignY=78&descAlign=50&stroke=6366f1&strokeWidth=2" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=6366f1&center=true&vCenter=true&width=600&lines=BTech+CSE+%E2%80%A2+Year+1;I+automate+things+I%27m+too+lazy+to+do+twice.;Currently+building+an+AI+that+knows+my+friends.;OSINT+nerd+in+the+making.;n8n+%2B+Gemini+%2B+vibes+%3D+Zuri)](https://git.io/typing-svg)
 
 </div>
 
-<br>
-
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=gritty-sloth&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=e2e8f0&icon_color=818cf8&ring_color=6366f1&bg_color=0d0d1a&include_all_commits=true&count_private=true"/>
+<br>
 
-### `> whoami`
+## `> whoami`
 
 **Arizen.** First-year CSE student who treats side projects as the real degree.
 
@@ -29,60 +23,29 @@ I build things I actually need — AI assistants, automation pipelines, Discord 
 - ⚙️ **n8n automations** — if it has an API, I've probably hooked it up to something
 - 🤫 A few more things cooking quietly
 
-<br clear="right"/>
-
 ---
 
 <br>
 
-## `> projects --pinned`
+## `> stats`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🤖 Zuri
-> *The AI that knows your secrets (with permission)*
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gritty-sloth&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=e2e8f0&icon_color=818cf8&ring_color=6366f1&bg_color=0d0d1a&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=gritty-sloth&theme=tokyonight&hide_border=true&ring=6366f1&fire=818cf8&currStreakLabel=6366f1&background=0d0d1a"/>
 
-WhatsApp AI assistant built for a close friend group. Has **persistent memory**, understands group dynamics, keeps secrets, detects humor. Zero cost stack.
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gritty-sloth&layout=donut&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=e2e8f0&bg_color=0d0d1a"/>
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=gritty-sloth&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 
-`n8n` `Gemini 2.5 Flash` `WhatsApp Cloud API` `Google Sheets` `ClawCloud`
+</div>
 
-</td>
-<td width="50%" valign="top">
+#### `> deep metrics`
 
-### 🔍 OSINT Toolkit *(WIP)*
-> *Know before you act*
+<div align="center">
 
-Multi-year project. Link analysis, chronolocation, pivot auditing, threat modeling, sock puppet detection. Built as a career foundation alongside the degree.
+![metrics](https://raw.githubusercontent.com/gritty-sloth/gritty-sloth/main/github-metrics.svg)
 
-`Python` `Graph Analysis` `OSINT Frameworks`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Discord Bots
-> *Server automation that actually works*
-
-Custom bots for communities — leveling, voice XP, temp channels, moderation flows. Built for real servers, not tutorials.
-
-`Node.js` `Python` `Discord API`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ n8n Workflows
-> *If it has an API, it's already automated*
-
-Personal and project automation pipelines — webhooks, schedulers, AI chains, API glue. The backbone of everything I build.
-
-`n8n` `REST APIs` `Webhooks` `Google Workspace`
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -159,19 +122,9 @@ Personal and project automation pipelines — webhooks, schedulers, AI chains, A
 
 <br>
 
-## `> metrics`
+## `> quote`
 
 <div align="center">
-
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gritty-sloth&layout=donut&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=e2e8f0&bg_color=0d0d1a"/>
-
-<img width="420" src="https://github-readme-streak-stats.herokuapp.com?user=gritty-sloth&theme=tokyonight&hide_border=true&ring=6366f1&fire=818cf8&currStreakLabel=6366f1&background=0d0d1a"/>
-
-<br><br>
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=gritty-sloth&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-<br>
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -181,13 +134,14 @@ Personal and project automation pipelines — webhooks, schedulers, AI chains, A
 
 <br>
 
-## `> deep metrics`
+## `> projects`
 
-<div align="center">
-
-![metrics](https://raw.githubusercontent.com/gritty-sloth/gritty-sloth/main/github-metrics.svg)
-
-</div>
+| Project | What it does |
+|---|---|
+| 🤖 **Zuri** | WhatsApp AI assistant with persistent memory, built for a close friend group |
+| 🔍 **OSINT Toolkit** *(WIP)* | Link analysis, chronolocation, pivot auditing & sock puppet detection |
+| 🤖 **Discord Bots** | Custom leveling, voice XP, temp-channel & moderation bots for real servers |
+| ⚡ **n8n Workflows** | Personal automation pipelines — webhooks, schedulers, AI chains |
 
 ---
 
@@ -214,30 +168,22 @@ Personal and project automation pipelines — webhooks, schedulers, AI chains, A
 
 <br>
 
-## `> support`
+## `> support & collab`
 
 <div align="center">
 
+*Open to collabs on automation · OSINT tooling · anything weird and useful.*
 *If something I built saved you time, you can fuel the next one ☕*
 
 [![Patreon](https://img.shields.io/badge/Patreon-1e1b4b?style=for-the-badge&logo=patreon&logoColor=ef4444)](https://patreon.com/gritty-sloth)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-1e1b4b?style=for-the-badge&logo=ko-fi&logoColor=f97316)](https://ko-fi.com/gritty_sloth)
 [![USDT TRC20](https://img.shields.io/badge/USDT_(TRC20)-1e1b4b?style=for-the-badge&logo=tether&logoColor=22c55e)](tron:TM4ipu9fjQzLjycLknxNuFKzCmEQYTYkxa)
 
-<sub>USDT (TRC20): <code>TM4ipu9fjQzLjycLknxNuFKzCmEQYTYkxa</code> — tap the badge above on a wallet-enabled device (e.g. TronLink) to auto-fill, or copy manually. ⚠️ TRC20 network only.</sub>
+<sub>USDT (TRC20): <code>TM4ipu9fjQzLjycLknxNuFKzCmEQYTYkxa</code> — tap the badge on a wallet-enabled device (e.g. TronLink) to auto-fill, or copy manually. ⚠️ TRC20 network only.</sub>
 
-</div>
-
----
-
-<br>
-
-<div align="center">
+<br><br>
 
 [![](https://komarev.com/ghpvc/?username=gritty-sloth&icon=8&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
-
-*open to collabs on automation · osint tooling · anything weird and useful*
-
 [![GitHub](https://img.shields.io/badge/github-gritty--sloth-1e1b4b?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/gritty-sloth)
 
 <br>
@@ -245,3 +191,4 @@ Personal and project automation pipelines — webhooks, schedulers, AI chains, A
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1e1b4b,100:0a0a0f&height=100&section=footer" width="100%"/>
 
 </div>
+ 
