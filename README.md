@@ -158,11 +158,10 @@ I am currently exploring new stuffs and doing side projects
 
 <br>
 
-## `> Support & collab`
+## `> Support`
 
 <div align="center">
 
-*Open to collabs on automation · OSINT tooling · anything weird and useful.*
 *If something I built saved you time, you can fuel the next one ☕*
 
 [![Patreon](https://img.shields.io/badge/Patreon-1e1b4b?style=for-the-badge&logo=patreon&logoColor=ef4444)](https://patreon.com/gritty-sloth)
@@ -171,12 +170,30 @@ I am currently exploring new stuffs and doing side projects
 
 <sub>USDT (TRC20): <code>TM4ipu9fjQzLjycLknxNuFKzCmEQYTYkxa</code> — tap the badge on a wallet-enabled device (e.g. TronLink) to auto-fill, or copy manually. ⚠️ TRC20 network only.</sub>
 
-<br><br>
+</div>
 
-[![](https://komarev.com/ghpvc/?username=gritty-sloth&icon=8&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
+---
+
+<br>
+
+## `> Collab`
+
+<div align="center">
+
+*Open to collabs on automation · OSINT tooling · anything weird and useful.*
 
 [![GitHub](https://img.shields.io/badge/github-gritty--sloth-1e1b4b?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/gritty-sloth)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1e1b4b?style=for-the-badge&logo=firefox&logoColor=6366f1)](https://taynet.vercel.app)
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+[![](https://komarev.com/ghpvc/?username=gritty-sloth&icon=8&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
 
 <br>
 
