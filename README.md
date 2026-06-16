@@ -8,11 +8,10 @@
 
 </div>
 
-## `> Whoami`
 
-**Arizen** ***(aka Gritty Sloth)***. First-year CSE student who treats side projects as the real degree.
+**Arizen** ***(Ayush Yadav)***. First-year CSE student who treats side projects as the real degree.
 
-I am currently exploring new stuffs and doing side projects
+Choose tech by interest
 
 ---
 
