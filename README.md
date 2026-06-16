@@ -12,7 +12,7 @@
 
 **Arizen** ***(aka Gritty Sloth)***. First-year CSE student who treats side projects as the real degree.
 
-I am currently exploring new stuffs and doing side projects 
+I am currently exploring new stuffs and doing side projects
 
 ---
 
@@ -43,11 +43,17 @@ I am currently exploring new stuffs and doing side projects
 
 <div align="center">
 
+<details>
+<summary><b>🗂️ Tap to view full stack</b></summary>
+
+<br>
+
 **Languages & Core**
 
 ![C++](https://img.shields.io/badge/c++-1e1b4b?style=for-the-badge&logo=c%2B%2B&logoColor=818cf8)
 ![Python](https://img.shields.io/badge/Python-1e1b4b?style=for-the-badge&logo=python&logoColor=818cf8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1e1b4b?style=for-the-badge&logo=javascript&logoColor=eab308)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e1b4b?style=for-the-badge&logo=typescript&logoColor=3178c6)
 ![HTML5](https://img.shields.io/badge/html5-1e1b4b?style=for-the-badge&logo=html5&logoColor=f97316)
 ![CSS3](https://img.shields.io/badge/css3-1e1b4b?style=for-the-badge&logo=css3&logoColor=60a5fa)
 ![Kotlin](https://img.shields.io/badge/kotlin-1e1b4b?style=for-the-badge&logo=kotlin&logoColor=a78bfa)
@@ -103,6 +109,8 @@ I am currently exploring new stuffs and doing side projects
 ![GitLab](https://img.shields.io/badge/gitlab-1e1b4b?style=for-the-badge&logo=gitlab&logoColor=f97316)
 ![Linux](https://img.shields.io/badge/Linux-1e1b4b?style=for-the-badge&logo=linux&logoColor=fbbf24)
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-1e1b4b?style=for-the-badge&logo=windows-terminal&logoColor=e2e8f0)
+
+</details>
 
 </div>
 
@@ -166,7 +174,9 @@ I am currently exploring new stuffs and doing side projects
 <br><br>
 
 [![](https://komarev.com/ghpvc/?username=gritty-sloth&icon=8&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
+
 [![GitHub](https://img.shields.io/badge/github-gritty--sloth-1e1b4b?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/gritty-sloth)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1e1b4b?style=for-the-badge&logo=firefox&logoColor=6366f1)](https://taynet.vercel.app)
 
 <br>
 
