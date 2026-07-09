@@ -21,7 +21,8 @@ Choose tech by interest
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gritty-sloth&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=e2e8f0&icon_color=818cf8&ring_color=6366f1&bg_color=0d0d1a&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=gritty-sloth&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=e2e8f0&icon_color=818cf8&ring_color=6366f1&bg_color=0d0d1a&include_all_commits=true&count_private=true"/>
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=gritty-sloth&theme=tokyonight&hide_border=true&ring=6366f1&fire=818cf8&currStreakLabel=6366f1&background=0d0d1a"/>
 
 </div>
